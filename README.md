@@ -1,4 +1,4 @@
-# Monday-Coffee-Expansion
+# Monday-Coffee-Company Expansion
 ## Objective
 The aim of this project is to analyze Monday Coffee's sales data, an online business active since January 2023, and recommend the top three major cities in India for opening new coffee shop locations, guided by consumer demand and sales trends.
 
